@@ -22,3 +22,4 @@ We adopt a **light touch** approach so project reports do not need to be refined
 
 Supervisory input will be useful for all reporting stages but the emphasis will be on the project student to produce reports and maintain timelines.
 
+Feedback on reports will be given by the HDRUK Programme Team.
