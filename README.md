@@ -6,6 +6,8 @@ This is an information page for the HDRUK Spring Projects.
 
 *Project period:* 7 March 2021-11 June 2021.
 
+*Holiday Period:* Project supervisors should note that the project will overlap with University closure periods over Easter.
+
 *Other training activities:* Spring project should be the main activity during the project period for HDRUK PhD students. However, during the project period, students maybe required to attend compulsory HDRUK training events. In addition, students will also be developing research proposals for their full PhD projects during the project period. Students should inform project supervisors in advance of these activities.
 
 For any enquiries about the PhD Programme, contact: christopher.yau@hdruk.ac.uk
