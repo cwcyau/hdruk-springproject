@@ -4,7 +4,7 @@ This is an information page for the HDRUK Spring Projects.
 
 ## General information
 
-*Project period:* 7 March 2021-11 June 2021.
+*Project period:* 7 March 2021-4 June 2021.
 
 *Holiday Period:* Project supervisors should note that the project will overlap with University closure periods over Easter.
 
