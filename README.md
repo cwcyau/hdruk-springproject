@@ -28,7 +28,7 @@ Feedback on reports will be given by the HDRUK Programme Team.
 
 ## Mid-Project Talks
 
-Each talk will be 15 minutes + 5 mins Q+A.
+Each talk will be 15 minutes + 5 mins Q+A. Talks will start at 12:00PM.
 
 | Date | Speaker(s) |
 | ---- | ---------- |
