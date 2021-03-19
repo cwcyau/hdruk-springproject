@@ -25,3 +25,15 @@ We adopt a **light touch** approach so project reports do not need to be refined
 Supervisory input will be useful for all reporting stages but the emphasis will be on the project student to produce reports and maintain timelines.
 
 Feedback on reports will be given by the HDRUK Programme Team.
+
+## Mid-Project Talks
+
+Each talk will be 15 minutes + 5 mins Q+A.
+
+| Date | Speaker(s) |
+| ---- | ---------- |
+| 7 April | Lightning Project Introductions (All) |
+| 21 April 2021 | Emma, David |
+| 28 April 2021 | Claire, Haoting |
+| 5 May 2021 | Tianxiao, Eloise |
+| 12 May 2021 | Fabian |
