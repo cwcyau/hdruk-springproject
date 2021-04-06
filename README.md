@@ -34,7 +34,7 @@ Each talk will be 15 minutes + 5 mins Q+A. Talks will start at 12:00PM.
 
 | Date | Speaker(s) |
 | ---- | ---------- |
-| 7 April | Lightning Project Introductions (All) |
+| 7 April | Lightning Project Introductions (All) (5 mins talk each) |
 | 21 April 2021 | Emma, David |
 | 28 April 2021 | Claire, Haoting |
 | 5 May 2021 | Tianxiao, Eloise, Fabian |
